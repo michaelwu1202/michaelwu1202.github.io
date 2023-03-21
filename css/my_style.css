@@ -5,10 +5,3 @@ body {
     h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: 'Noto Sans TC', sans-serif;
     }
-.expedu_icon {
-    color:#2894FF;
-}
-.expedu_icon:hover {
-    background-color:#2894FF;
-    color:#28FF28;
-}
