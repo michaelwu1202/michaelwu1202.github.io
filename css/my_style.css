@@ -12,3 +12,12 @@ font-family:'Noto Sans TC', sans-serif;
     background-color:#0080FF ;
     color: #fff;
 }
+.expedu_icon{
+    color: var(--bs-secondary);
+} 
+a{
+    color: var(--bs-primary); 
+}
+.social-icons .social-icon:hover  {
+    background-color:var(--bs-secondary) ;
+}
