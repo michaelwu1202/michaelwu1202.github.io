@@ -13,11 +13,11 @@ font-family:'Noto Sans TC', sans-serif;
     color: #fff;
 }
 .expedu_icon{
-    color: var(--bs-secondary);
+    color: var(#84C1FF	);
 } 
 a{
-    color: var(--bs-primary); 
+    color: var(#84C1FF	); 
 }
 .social-icons .social-icon:hover  {
-    background-color:var(--bs-secondary) ;
+    background-color:var(#84C1FF	) ;
 }
