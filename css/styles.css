@@ -89,6 +89,16 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+
+ul>li{
+  padding-left: 10px;
+}
+
+
+ul>li:hover {
+	background-color: #3d63de;
+}
+
 .address{
   margin: 1rem 0;
 }
