@@ -96,7 +96,7 @@ ul>li{
 
 
 ul>li:hover {
-	background-color: #3d63de;
+	background-color: #4e79ad;
 }
 
 .address{
@@ -121,7 +121,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   line-height: 1.2;
-  color: #343a40;
+  color: #177add;
 }
 
 h1, .h1 {
@@ -11414,7 +11414,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: 	#46A3FF;
 }
 
 .dev-icons {
